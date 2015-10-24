@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: etshiorny
+Build-Jdk: 1.8.0_31
+Created-By: Maven Integration for Eclipse
+Module-Initializer: com.e3.bizamo.test.ioc2.Initializer
+

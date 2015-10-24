@@ -1,0 +1,32 @@
+2015-10-21 13:45:33 [main] INFO  com.e3.bizamo.ioc.module.ModuleScanner - Scanned jars are below:
+2015-10-21 13:45:33 [main] INFO  com.e3.bizamo.ioc.module.ModuleScanner - file:/Users/etshiorny/Projects/bizamo/bizamo-ioc/target/test-classes/folder4/bizamo-test-ioc4-0.0.1-SNAPSHOT.jar
+2015-10-21 13:45:33 [main] INFO  com.e3.bizamo.ioc.module.ModuleScanner - Scanning jar entries for [/Users/etshiorny/Projects/bizamo/bizamo-ioc/target/test-classes/folder4/bizamo-test-ioc4-0.0.1-SNAPSHOT.jar]
+2015-10-21 13:45:33 [main] INFO  com.e3.bizamo.ioc.module.ModuleScanner - Scanned jars are below:
+2015-10-21 13:45:33 [main] INFO  com.e3.bizamo.ioc.module.ModuleScanner - file:/Users/etshiorny/Projects/bizamo/bizamo-ioc/target/test-classes/folder1/bizamo-test-ioc1-0.0.1-SNAPSHOT.jar
+2015-10-21 13:45:33 [main] INFO  com.e3.bizamo.ioc.module.ModuleScanner - Scanning jar entries for [/Users/etshiorny/Projects/bizamo/bizamo-ioc/target/test-classes/folder1/bizamo-test-ioc1-0.0.1-SNAPSHOT.jar]
+2015-10-21 13:45:33 [main] INFO  com.e3.bizamo.ioc.module.ModuleScanner - Initializer com.e3.bizamo.test.ioc1.Initializer was detected. Executing initializer
+2015-10-21 13:45:33 [main] INFO  com.e3.bizamo.ioc.module.ModuleScanner - Scanned jars are below:
+2015-10-21 13:45:33 [main] INFO  com.e3.bizamo.ioc.module.ModuleScanner - file:/Users/etshiorny/Projects/bizamo/bizamo-ioc/target/test-classes/folder2/bizamo-test-ioc2-0.0.1-SNAPSHOT.jar
+2015-10-21 13:45:33 [main] INFO  com.e3.bizamo.ioc.module.ModuleScanner - Scanning jar entries for [/Users/etshiorny/Projects/bizamo/bizamo-ioc/target/test-classes/folder2/bizamo-test-ioc2-0.0.1-SNAPSHOT.jar]
+2015-10-21 13:45:33 [main] INFO  com.e3.bizamo.ioc.module.ModuleScanner - Initializer com.e3.bizamo.test.ioc2.FakeInitializer was detected. Executing initializer
+2015-10-21 13:45:33 [main] INFO  com.e3.bizamo.ioc.module.ModuleScanner - Initializer com.e3.bizamo.test.ioc2.Initializer was detected. Executing initializer
+2015-10-21 13:45:33 [main] INFO  com.e3.bizamo.ioc.module.ModuleScanner - Scanned jars are below:
+2015-10-21 13:45:33 [main] INFO  com.e3.bizamo.ioc.module.ModuleScanner - file:/Users/etshiorny/Projects/bizamo/bizamo-ioc/target/test-classes/folder1/bizamo-test-ioc1-0.0.1-SNAPSHOT.jar
+2015-10-21 13:45:33 [main] INFO  com.e3.bizamo.ioc.module.ModuleScanner - Scanned jars are below:
+2015-10-21 13:45:33 [main] INFO  com.e3.bizamo.ioc.module.ModuleScanner - file:/Users/etshiorny/Projects/bizamo/bizamo-ioc/target/test-classes/folder2/bizamo-test-ioc2-0.0.1-SNAPSHOT.jar
+2015-10-21 13:45:33 [main] INFO  com.e3.bizamo.ioc.module.ModuleScanner - Scanning jar entries for [/Users/etshiorny/Projects/bizamo/bizamo-ioc/target/test-classes/folder1/bizamo-test-ioc1-0.0.1-SNAPSHOT.jar]
+2015-10-21 13:45:33 [main] INFO  com.e3.bizamo.ioc.module.ModuleScanner - Initializer com.e3.bizamo.test.ioc1.Initializer was detected. Executing initializer
+2015-10-21 13:45:33 [main] INFO  com.e3.bizamo.ioc.module.ModuleScanner - Scanning jar entries for [/Users/etshiorny/Projects/bizamo/bizamo-ioc/target/test-classes/folder2/bizamo-test-ioc2-0.0.1-SNAPSHOT.jar]
+2015-10-21 13:45:33 [main] INFO  com.e3.bizamo.ioc.module.ModuleScanner - Initializer com.e3.bizamo.test.ioc2.FakeInitializer was detected. Executing initializer
+2015-10-21 13:45:33 [main] INFO  com.e3.bizamo.ioc.module.ModuleScanner - Initializer com.e3.bizamo.test.ioc2.Initializer was detected. Executing initializer
+2015-10-21 13:45:33 [main] INFO  com.e3.bizamo.ioc.module.ModuleScanner - Scanned jars are below:
+2015-10-21 13:45:33 [main] INFO  com.e3.bizamo.ioc.module.ModuleScanner - file:/Users/etshiorny/Projects/bizamo/bizamo-ioc/target/test-classes/folder1/bizamo-test-ioc1-0.0.1-SNAPSHOT.jar
+2015-10-21 13:45:33 [main] INFO  com.e3.bizamo.ioc.module.ModuleScanner - Scanning jar entries for [/Users/etshiorny/Projects/bizamo/bizamo-ioc/target/test-classes/folder1/bizamo-test-ioc1-0.0.1-SNAPSHOT.jar]
+2015-10-21 13:45:33 [main] INFO  com.e3.bizamo.ioc.module.ModuleScanner - Initializer com.e3.bizamo.test.ioc1.Initializer was detected. Executing initializer
+2015-10-21 13:45:33 [main] INFO  com.e3.bizamo.ioc.module.ModuleScanner - Scanned jars are below:
+2015-10-21 13:45:33 [main] INFO  com.e3.bizamo.ioc.module.ModuleScanner - file:/Users/etshiorny/Projects/bizamo/bizamo-ioc/target/test-classes/folder3/bizamo-test-ioc3-0.0.1-SNAPSHOT.jar
+2015-10-21 13:45:33 [main] INFO  com.e3.bizamo.ioc.module.ModuleScanner - Scanning jar entries for [/Users/etshiorny/Projects/bizamo/bizamo-ioc/target/test-classes/folder3/bizamo-test-ioc3-0.0.1-SNAPSHOT.jar]
+2015-10-21 13:45:33 [main] INFO  com.e3.bizamo.ioc.module.ModuleScanner - Scanned jars are below:
+2015-10-21 13:45:33 [main] INFO  com.e3.bizamo.ioc.module.ModuleScanner - file:/Users/etshiorny/Projects/bizamo/bizamo-ioc/target/test-classes/folder6/bizamo-test-ioc6-0.0.1-SNAPSHOT.jar
+2015-10-21 13:45:33 [main] INFO  com.e3.bizamo.ioc.module.ModuleScanner - Scanning jar entries for [/Users/etshiorny/Projects/bizamo/bizamo-ioc/target/test-classes/folder6/bizamo-test-ioc6-0.0.1-SNAPSHOT.jar]
+2015-10-21 13:45:33 [main] INFO  com.e3.bizamo.ioc.module.ModuleScanner - Export: (com.e3.bizamo.test.ioc6.IServiceDouble,com.e3.bizamo.test.ioc6.ServiceImplDouble)
